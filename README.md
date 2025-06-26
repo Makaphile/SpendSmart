@@ -23,7 +23,7 @@ Spend Smart makes budgeting easy and fun by combining core money management feat
 
  Video Demo
 
-
+https://youtube.com/shorts/mC18W46j9Dk?si=xRILiuD8Z2V9rqCQ
 
  Technologies Used
 
